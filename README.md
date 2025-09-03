@@ -1,5 +1,5 @@
 # BMI Calculator GUI Application
-
+![Screenshot of the BMI Calculator GUI](images/BMI Normal Weight.jpg)
 This project is a Body Mass Index (BMI) calculator built as a Graphical User Interface (GUI) application using Python and the **Tkinter** library.
 
 The application allows users to input their height and weight to calculate their BMI and determine the corresponding WHO category.
