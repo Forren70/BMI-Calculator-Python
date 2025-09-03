@@ -4,7 +4,7 @@ This project is a Body Mass Index (BMI) calculator built as a Graphical User Int
 
 The application allows users to input their height and weight to calculate their BMI and determine the corresponding WHO category.
 
-![Screenshot of the BMI Calculator GUI](images/BMI Normal Weight.jpg)
+![Screenshot of the BMI Calculator GUI](BMI_Normal_Weight.jpg)
 
 ## Features
 - User-friendly interface for seamless data entry.
