@@ -1,6 +1,22 @@
-BMI Calculator GUI Application
-I developed this Body Mass Index (BMI) calculator as a GUI application using Python and the Tkinter library.
+# BMI Calculator GUI Application
 
-This project focuses on creating a user-friendly interface for inputting height and weight to calculate BMI and determine the corresponding WHO category. It includes essential features like error handling for invalid input and a visual BMI chart. A practical example of desktop application development with Python.
+This project is a Body Mass Index (BMI) calculator built as a Graphical User Interface (GUI) application using Python and the **Tkinter** library.
 
-#Python #Tkinter #GUI #SoftwareDevelopment #Programming
+The application allows users to input their height and weight to calculate their BMI and determine the corresponding WHO category.
+
+## Features
+- User-friendly interface for seamless data entry.
+- Real-time BMI calculation with results displayed in a color-coded format.
+- Robust error handling for invalid or non-numeric input.
+- Integration of a visual BMI chart to enhance the user experience.
+
+## Requirements
+To run this application, you need to have Python installed on your system.
+You also need the `Pillow` library to handle the image. You can install it using pip:
+`pip install Pillow`
+
+## How to Run
+1.  Ensure you have the required libraries installed.
+2.  Clone or download this repository.
+3.  Run the script from your terminal:
+    `python BMI_calculator.py`
